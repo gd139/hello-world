@@ -1,2 +1,2 @@
 # hello-world
-co-selflearing from now on!
+co-selflearning from now on!
